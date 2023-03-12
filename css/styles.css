@@ -7676,6 +7676,10 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+.text-left {
+  text-align: left !important;
+}
+
 .text-decoration-none {
   text-decoration: none !important;
 }
